@@ -2,7 +2,7 @@
 
 
 
-git clone https://Bhola3119/Multi-Web
+git clone https://Bhola3119/Multi-Web.git
 
 
 cd Multi-Web
